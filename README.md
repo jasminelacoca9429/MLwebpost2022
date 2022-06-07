@@ -13,7 +13,7 @@ Vector Definition: A vector is a list of numbers. There are (at least) two ways 
 
 ## 2.	Matrix
 
- <img src="https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif" width="800" height="300">
+ <img src="https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif" width="700" height="300">
  <img src="" width="800" height="300">
  
 Again, speaking of matrix, the introduction of determinant is inevitable. 

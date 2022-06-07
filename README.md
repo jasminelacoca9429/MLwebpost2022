@@ -5,18 +5,21 @@ Linear algebra is a branch of mathematics that is extremely useful in data scien
 ## 1.	Vector
 To help you better understand the concept and features of vector, let’s start with a comparative study of Scalar VS Vector.
 
-Scalar Definition: A scalar is a number. Examples of scalars are temperature, distance, speed, or mass – all quantities that have a magnitude but no “direction”, other than perhaps positive or negative.
+Scalar Definition: A scalar is a number. Examples of scalars are temperature, distance, speed, or mass – all quantities that have a magnitude but no “direction”, other than perhaps positive or negative.   
+<img src="https://user-images.githubusercontent.com/80931965/172498631-bc720ea9-2897-40dc-8bb4-e5e50b88b6e6.png" width="500" height="300">
 
 Vector Definition: A vector is a list of numbers. There are (at least) two ways to interpret what this list of numbers mean: 1. Think of the vector as being a point in a space. Then this list of numbers is a way of identifying that point in space, where each number represents the vector’s component that dimension. Or 2. Think of a vector as a magnitude and a direction, e.g. a quantity like velocity. In this way of think of it, a vector is a directed arrow pointing from the origin to the end point given by the list of numbers.  
+ <img src="https://user-images.githubusercontent.com/80931965/172498629-73cef488-ab6c-462b-be9f-e32f1081f3ea.png" width="400" height="300">
 
-2.	Matrix
+## 2.	Matrix
 
- 
- 
+ <img src="https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif" width="800" height="300">
+ <img src="" width="800" height="300">
  
 Again, speaking of matrix, the introduction of determinant is inevitable. 
 
 Definition: Both determinants and matrices are logical and convenient representations of large sets of real numbers or variables and vectors, which are arranged in arrays of rows and columns.
+ <img src="" width="800" height="300">
 Differences:
 1.	a matrix is a group of numbers but a determinant is a unique number related to that matrix.  
 
@@ -64,6 +67,8 @@ Meaning:
 Eigenvalues and Eigenvectors provides summary of a large matrix.
 Eigenvectors and eigenvalues are used to reduce noise in data. They can help us improve efficiency in computationally intensive tasks. They also eliminate features that have a strong correlation between them and also help in reducing over-fitting. The core of component analysis (PCA) is built on the concept of eigenvalues and eigenvectors. Additionally, eigenvectors and eigenvalues are used in facial recognition techniques such as EigenFaces.
 Lastly, in non-linear motion dynamics, eigenvalues and eigenvectors can be used to help us understand the data better as they can be used to transform and represent data into manageable sets.
+
+<img src="https://user-images.githubusercontent.com/80931965/172498613-f65a829a-4a88-49ec-ba8a-36f611629ec1.png" width="800" height="300">
 
 References
 

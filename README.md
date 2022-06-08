@@ -20,7 +20,7 @@ Again, speaking of matrix, the introduction of determinant is inevitable.
 Definition: Both determinants and matrices are logical and convenient representations of large sets of real numbers or variables and vectors, which are arranged in arrays of rows and columns.
 
 Differences:
-1.	a matrix is a group of numbers but a determinant is a unique number related to that matrix.  
+1.	a matrix is a group of numbers but a determinant is a unique number related to that matrix. 
 
 2.	In writing, we distinguish them by using two brackets to cover numbers in matrix, while using tow bars to covered numbers in determinant.
 

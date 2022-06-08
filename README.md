@@ -1,4 +1,5 @@
 # Linear Algebra: The Robin of Dataman
+#### by Yue Chen
 
 Linear algebra is a branch of mathematics that is extremely useful in data science. It is also the most important math skill in machine learning, as most machine learning models can be expressed in matrix form, like how a dataset itself is often represented as a matrix. Not only has been used in data preprocessing, data transformation, and model evaluation, under the hood, linear algebra powers major areas including the cutting-edge fields of Natural Language Processing and Computer Vision. Hence, we can say that, if Data Science was Batman, Linear Algebra would be Robin. Here are the topics you need to be familiar with:
 

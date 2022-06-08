@@ -72,7 +72,7 @@ Eigenvalue: The scalar that is used to transform (stretch/compress) an Eigenvect
 
 In matrix form
 
-<img src="https://user-images.githubusercontent.com/80931965/172498613-f65a829a-4a88-49ec-ba8a-36f611629ec1.png" width="500" height="200">
+<img src="https://user-images.githubusercontent.com/80931965/172498613-f65a829a-4a88-49ec-ba8a-36f611629ec1.png" width="500" height="190">
 
 Meaning: 
 
@@ -84,7 +84,6 @@ Lastly, in non-linear motion dynamics, eigenvalues and eigenvectors can be used 
 ## References
 
 Matrix: 
-
 https://www.mathsisfun.com/search/search.html?query=linear+algebra&submit=&search=1#ff
 
 Eigenvalues and Eigenvectors: 

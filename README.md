@@ -49,11 +49,11 @@ The inverse of matrix is another matrix, which on multiplication with the given 
 
 Definition: The dot product is an algebraic operation that takes two same-sized vectors and returns a single number.
 
-<img src="https://user-images.githubusercontent.com/80931965/172498633-fca891b4-fd2d-4926-97a0-1b3b36a4cf6e.png" width="600" height="150">
+<img src="https://user-images.githubusercontent.com/80931965/172498633-fca891b4-fd2d-4926-97a0-1b3b36a4cf6e.png" width="600" height="120">
                                  
 Geometric definition: the dot product is the product of the Euclidean magnitudes of two vectors and the cosine of the angle between two.
 
-<img src="https://user-images.githubusercontent.com/80931965/172498615-4d0f8bb6-e0d6-4b54-94e9-6215d92954be.png" width="600" height="250">
+<img src="https://user-images.githubusercontent.com/80931965/172498615-4d0f8bb6-e0d6-4b54-94e9-6215d92954be.png" width="600" height="230">
 
 Definition of Matrix multiplication: basically, a matrix version of the dot product. Remember the result of dot product is a scalar. The result of matrix multiplication is a matrix, whose elements are the dot products of pairs of vectors in each matrix. 
 

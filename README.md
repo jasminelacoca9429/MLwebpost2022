@@ -29,16 +29,6 @@ In a determinant: the number of rows === the number of columns.
 
 ![matrix bullet](https://user-images.githubusercontent.com/80931965/172498620-eb723473-829d-4bcf-867b-014200f2cc88.png)
 
- 
- 
-
-![keanu](https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif)
-
-
-
- <img src="" width="800" height="300"> 
-
-
 ## 3. Properties of matrix
 
 3.1 Transpose of a matrix:
@@ -59,7 +49,7 @@ The inverse of matrix is another matrix, which on multiplication with the given 
 
 Definition: The dot product is an algebraic operation that takes two same-sized vectors and returns a single number.
 
-<img src="https://user-images.githubusercontent.com/80931965/172498633-fca891b4-fd2d-4926-97a0-1b3b36a4cf6e.png" width="600" height="250">
+<img src="https://user-images.githubusercontent.com/80931965/172498633-fca891b4-fd2d-4926-97a0-1b3b36a4cf6e.png" width="600" height="150">
                                  
 Geometric definition: the dot product is the product of the Euclidean magnitudes of two vectors and the cosine of the angle between two.
 
@@ -89,7 +79,7 @@ Eigenvalues and Eigenvectors provides summary of a large matrix.
 Eigenvectors and eigenvalues are used to reduce noise in data. They can help us improve efficiency in computationally intensive tasks. They also eliminate features that have a strong correlation between them and also help in reducing over-fitting. The core of component analysis (PCA) is built on the concept of eigenvalues and eigenvectors. Additionally, eigenvectors and eigenvalues are used in facial recognition techniques such as EigenFaces.
 Lastly, in non-linear motion dynamics, eigenvalues and eigenvectors can be used to help us understand the data better as they can be used to transform and represent data into manageable sets.
 
-References
+## References
 
 Matrix: 
 

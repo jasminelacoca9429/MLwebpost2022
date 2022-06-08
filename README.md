@@ -75,8 +75,10 @@ In matrix form
 <img src="https://user-images.githubusercontent.com/80931965/172498613-f65a829a-4a88-49ec-ba8a-36f611629ec1.png" width="500" height="200">
 
 Meaning: 
+
 Eigenvalues and Eigenvectors provides summary of a large matrix.
 Eigenvectors and eigenvalues are used to reduce noise in data. They can help us improve efficiency in computationally intensive tasks. They also eliminate features that have a strong correlation between them and also help in reducing over-fitting. The core of component analysis (PCA) is built on the concept of eigenvalues and eigenvectors. Additionally, eigenvectors and eigenvalues are used in facial recognition techniques such as EigenFaces.
+
 Lastly, in non-linear motion dynamics, eigenvalues and eigenvectors can be used to help us understand the data better as they can be used to transform and represent data into manageable sets.
 
 ## References

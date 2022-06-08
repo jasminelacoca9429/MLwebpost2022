@@ -9,11 +9,11 @@ Scalar Definition: A scalar is a number. Examples of scalars are temperature, di
 <img src="https://user-images.githubusercontent.com/80931965/172498631-bc720ea9-2897-40dc-8bb4-e5e50b88b6e6.png" width="400" height="250">
 
 Vector Definition: A vector is a list of numbers. There are (at least) two ways to interpret what this list of numbers mean: 1. Think of the vector as being a point in a space. Then this list of numbers is a way of identifying that point in space, where each number represents the vector’s component that dimension. Or 2. Think of a vector as a magnitude and a direction, e.g. a quantity like velocity. In this way of think of it, a vector is a directed arrow pointing from the origin to the end point given by the list of numbers.  
- <img src="https://user-images.githubusercontent.com/80931965/172498629-73cef488-ab6c-462b-be9f-e32f1081f3ea.png" width="400" height="300">
+ <img src="https://user-images.githubusercontent.com/80931965/172509040-c931e465-ec77-4256-b49e-839eacf9c6a6.png" width="400" height="300">
 
 ## 2.	Matrix
 
- <img src="https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif" width="700" height="300">
+ <img src="https://user-images.githubusercontent.com/80931965/172498619-99cb2606-3f5b-426a-af21-9340d970d96c.gif" width="500" height="200">
  
 Again, speaking of matrix, the introduction of determinant is inevitable. 
 

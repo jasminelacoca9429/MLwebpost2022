@@ -44,7 +44,7 @@ Try transposing a matrix using your right hand (following this paw):
 3.2 Inverse of a matrix
 The inverse of matrix is another matrix, which on multiplication with the given matrix gives the multiplicative identity. For a matrix A, its inverse is A-1, and A.A-1 = A-1·A = I, where I is the identity matrix.
           
- <img src="LA_Images/p7.png" width="400" height="220">    <img src="LA_Images/p8.png" width="237" height="200">
+ <img src="LA_Images/p7.png" width="380" height="220">    <img src="LA_Images/p8.png" width="237" height="200">
 
 ## 4.	Dot product and matrix multiplication
 

@@ -14,7 +14,7 @@ Depp: Ah, Principle Component Analysis or PCA, it's just a method of summarizing
 
 <img src="PCA_images/p2.png">
 
-The Esquire Rainbow of Whiskey
+(The Esquire Rainbow of Whiskey)
 
 Amber: Hmm, okay. Does it mean PCA returns you a new whisky color or taste that helps you know this drink better?
 
@@ -105,7 +105,7 @@ Depp: Say that again?!
 
 ## References
 
-Whisky Shades:
+Rainbow of Whiskey:
 (https://www.esquire.com/food-drink/drinks/a33731/esquire-guide-to-whiskey-2015/)
 
 Eigendecomposition and PCA:

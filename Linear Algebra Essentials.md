@@ -1,4 +1,4 @@
-# A Complete Record of Johnny Depp and Amber Heard's Last Peachful Talk
+# A Complete Record of Johnny Depp and Amber Heard's Last Peaceful Talk
 
 Depp just finished a phone call with Paul Bettany.
 
@@ -103,9 +103,9 @@ Amber: Your silly tattoo?
 Depp: Say that again?!
 
 ## References
+
 Whisky Shades:
 (https://www.esquire.com/food-drink/drinks/a33731/esquire-guide-to-whiskey-2015/)
 
-Eigenvalues and Eigenvectors: 
-https://medium.com/sho-jp/linear-algebra-part-6-eigenvalues-and-eigenvectors-35365dc4365a
-
+Eigendecomposition and PCA:
+[https://medium.com/sho-jp/principal-component-analysis-101-part-1-d62aa2b0cc36](https://blog.clairvoyantsoft.com/eigen-decomposition-and-pca-c50f4ca15501)

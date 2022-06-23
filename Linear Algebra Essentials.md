@@ -13,6 +13,7 @@ Amber: Oh really, tell me more about it! You know I’ve got an audition next we
 Depp: Ah, Principle Component Analysis or PCA, it's just a method of summarizing some data. Look, we have some glasses of whisky on the table, and of course we can describe each whisky by its colour, age, taste etc., then we can compose a 4 pages’ appreciation paper for each of it. But no, this is just way too much for those whisky newbies! So, instead of a long list of Whisky features, we can use PCA to summarize each whisky through extracting the maximum possible information from the drink while reducing the noise and ignoring the redundant information. 
 
 <img src="PCA_images/p2.png">
+
 The Esquire Rainbow of Whiskey
 
 Amber: Hmm, okay. Does it mean PCA returns you a new whisky color or taste that helps you know this drink better?

@@ -1,16 +1,16 @@
-# A Complete Record of Johnny Depp and Amber Heard's Last Peaceful Talk
+# A Complete Record of J and A's Last Peaceful Talk
 
-Depp just finished a phone call with Paul Bettany.
+J just finished a phone call with P.
 
-Amber: Eigen, eigen… Pee-see-ay… I never knew you speak any German besides, you know, bier.
+A: Eigen, eigen… Pee-see-ay… I never knew you speak any German besides, you know, bier.
 
-Depp: Calm down. It’s just that Paul has been reading a lot of math, God knows how Jennifer are obsessed with mathematician.
+J: Calm down. It’s just that P has been reading a lot of math, God knows how c are obsessed with mathematician.
 
 <img src="PCA_images/p1.png">
 
-Amber: Oh really, tell me more about it! You know I’ve got an audition next week right? For “Algebra Man: Curse of Dimensionality”. 
+A: Oh really, tell me more about it! You know I’ve got an audition next week right? For “Algebra Man: Curse of Dimensionality”. 
 
-Depp: Ah, Principle Component Analysis or PCA, it's just a method of summarizing some data. Look, we have some glasses of whisky on the table, and of course we can describe each whisky by its colour, age, taste etc., then we can compose a 4 pages’ appreciation paper for each of it. But no, this is just way too much for those whisky newbies! So, instead of a long list of Whisky features, we can use PCA to summarize each whisky through extracting the maximum possible information from the drink while reducing the noise and ignoring the redundant information. 
+D: Ah, Principle Component Analysis or PCA, it's just a method of summarizing some data. Look, we have some glasses of whisky on the table, and of course we can describe each whisky by its colour, age, taste etc., then we can compose a 4 pages’ appreciation paper for each of it. But no, this is just way too much for those whisky newbies! So, instead of a long list of Whisky features, we can use PCA to summarize each whisky through extracting the maximum possible information from the drink while reducing the noise and ignoring the redundant information. 
 
 <img src="PCA_images/p2.png">
 

@@ -26,7 +26,7 @@ Jack: Good question. Perhaps I should make a little drawing (takes a napkin and 
 
 <img src="PCA_images/p3.png">   <img src="PCA_images/p4.png">
 
-Then Johnny used his wind borrowed from the Charlie movie, the black line starts to spin.
+Then Johnny used his wand borrowed from the Charlie movie, the black line starts to spin.
 
 <img src="PCA_images/p5.gif">   <img src="PCA_images/p6.gif">
 
